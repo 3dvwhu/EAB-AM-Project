@@ -1,15 +1,15 @@
 # Site settings
 
-title: Project Pages
+title: EAB-AM-Project
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /EAB-AM-Project/img/logos/Project-Pages-New-Logo-Inverted.png
 email: ahmetcecen@gmail.com
-description: "An Integrated Scientific Blogging Template"
-baseurl: "/project-pages"
-url: "http://projectpages.github.io"
-github_username:  projectpages
-project_repository: project-pages
+description: "Microstructural Analysis of Additive Manufacturing Datasets"
+baseurl: "/EAB-AM-Project"
+url: "http://mined-gatech.github.io"
+github_username:  mined-gatech
+project_repository: EAB-AM-Project
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
