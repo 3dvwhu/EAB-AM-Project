@@ -8,10 +8,8 @@ date:       2016-05-09
 ---
 <!-- Start Writing Below in Markdown -->
 
-# Additive Manufacturing Dataset
-
-Dataset as received from George T. (Rusty) Gray III of Los Alamos National Laboratory.
-
-Describe 1-2 sentences.
+Dataset as received from George T. (Rusty) Gray III of Los Alamos National Laboratory. Additive Manufacturing of 316L Stainless Steel.
 
 ![LengthScales](/EAB-AM-Project/img/AMData.png)
+
+#### Gray III, G. T., V. Livescu, P. A. Rigg, C. P. Trujillo, C. M. Cady, S. R. Chen, J. S. Carpenter, T. J. Lienert, and S. Fensin. "Structure/property (constitutive and dynamic strength/damage) characterization of additively manufactured 316L SS." In EPJ Web of Conferences, vol. 94, p. 02006. EDP Sciences, 2015.
