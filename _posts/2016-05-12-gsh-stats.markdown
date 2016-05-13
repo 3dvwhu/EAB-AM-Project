@@ -1,0 +1,10 @@
+---
+layout:     notebook
+title:      Statistics on Crystallographic Orientations
+author:     Noah Paulson
+tags: 		jupyter workflows
+subtitle:   For Textures in Ti-64 using Generalized Spherical Harmonics
+
+notebookfilename: gshspatstats
+visualworkflow: false
+---

@@ -1,0 +1,17 @@
+---
+layout:     post
+title:         Dataset Description
+author:     Evdokia Popova
+tags: 		post
+subtitle:  	A brief overview of the data.
+date:       2016-05-09
+---
+<!-- Start Writing Below in Markdown -->
+
+# Additive Manufacturing Dataset
+
+Dataset as received from George T. (Rusty) Gray III of Los Alamos National Laboratory.
+
+Describe 1-2 sentences.
+
+![LengthScales](/EAB-AM-Project/img/AMData.png)
