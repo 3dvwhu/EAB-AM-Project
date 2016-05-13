@@ -23,21 +23,44 @@ vertical:		</section><section markdown="1">
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
-## Chord Lentgh Distributions of the 3 Experimental Samples
+### Chord Length Distributions of the 3 Experimental Samples
 
-
-{{ page.horizontal }}
-
-
+![P1](/EAB-AM-Project/img/pcapresent/Picture1.png)
 
 {{ page.horizontal }}
 
+### Principal Component Analysis of the CLD for Experimental Subsamples
+
+![P1](/EAB-AM-Project/img/pcapresent/Picture2.png)
+
+{{ page.horizontal }}
+
+### PCA with Experimental and Simulated Datasets
+
+<embed src="http://mined.gatech.edu/EAB-AM-Project/2016/05/11/AM-Sim-CLD-PC/" height="800px" width="100%">
+
+<img src="/EAB-AM-Project/img/pcapresent/Picture11.png" style="position: absolute; right: 0%; z-index: 1000; top: 30%; height:15%">
+
+{{ page.horizontal }}
+
+### A Crude but Revealing Experiment
+
+Which Simulated(Red) subsample looks more similar to the AM-RX(Blue) sub sample?
+
+![P1](/EAB-AM-Project/img/pcapresent/Picture3.png)
 
 {{ page.vertical }}
 
+### The Worse Match
 
+![P1](/EAB-AM-Project/img/pcapresent/Picture9.png)
 
 {{ page.vertical }}
+
+### The Better Match
+
+![P1](/EAB-AM-Project/img/pcapresent/Picture8.png)
+
 
 <!-- End Here -->
 {{ page.horizontal }}
