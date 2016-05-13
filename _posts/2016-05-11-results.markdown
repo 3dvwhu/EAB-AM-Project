@@ -23,14 +23,21 @@ vertical:		</section><section markdown="1">
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
-## F11 to Fullscreen!
-
-Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling. 
+## Chord Lentgh Distributions of the 3 Experimental Samples
 
 
+{{ page.horizontal }}
 
 
 
+{{ page.horizontal }}
+
+
+{{ page.vertical }}
+
+
+
+{{ page.vertical }}
 
 <!-- End Here -->
 {{ page.horizontal }}
