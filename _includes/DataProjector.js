@@ -865,11 +865,15 @@ Projector = (function(_super) {
     this.particles = new Array();
     for (p = _j = 0; 0 <= clusters ? _j < clusters : _j > clusters; p = 0 <= clusters ? ++_j : --_j) {
       material = new THREE.ParticleBasicMaterial({
-        size: 6.0,
+        size: 15.0,
         sizeAttenuation: false,
         vertexColors: true
+//		map: THREE.ImageUtils.loadTexture("{{ '/img/particle.png' | prepend: site.baseurl }}"),
+//		blending: THREE.NormalBlending,
+//		transparent: true
       });
       this.particles[p] = new THREE.ParticleSystem(this.points[p], material);
+	  this.particles[p].sortParticles = true;
       this.box.add(this.particles[p]);
     }
     return this.notify(Projector.EVENT_DATA_LOADED);
