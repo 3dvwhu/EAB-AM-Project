@@ -39,8 +39,6 @@ vertical:		</section><section markdown="1">
 
 <embed src="http://mined.gatech.edu/EAB-AM-Project/2016/05/11/AM-Sim-CLD-PC/" height="800px" width="100%">
 
-<img src="/EAB-AM-Project/img/pcapresent/Picture11.png" style="position: absolute; right: 0%; z-index: 1000; top: 30%; height:15%">
-
 {{ page.horizontal }}
 
 ### A Crude but Revealing Experiment
